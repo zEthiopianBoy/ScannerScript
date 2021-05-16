@@ -13,4 +13,4 @@ Nmap automation tool
 -./ScannerScript.sh
 ---
 # Written by
-- zEthiopianBoy<@zEthiopianBoy>
+- zEthiopianBoy <@zEthiopianBoy>
