@@ -1,6 +1,3 @@
-[![zEthiopianBoy Stats](https://github-readme-stats.vercel.app/api?username=zEthiopianBoy)](https://github.com/zEthiopianBoy/github-readme-stats&show_icons=true)
-
-
 # ScannerScript
 Nmap automation tool
 ---
@@ -14,3 +11,5 @@ Nmap automation tool
 ---
 # Written by
 - zEthiopianBoy < @zEthiopianBoy >
+---
+[!][YouTube Channel](YouTube.com/zEthiopianBoy)
