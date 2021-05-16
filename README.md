@@ -9,7 +9,5 @@ Nmap automation tool
 - chmod +x ScannerScript.sh
 -./ScannerScript.sh
 ---
-# Written by
-- zEthiopianBoy < @zEthiopianBoy >
----
+# Screenshot
 ![Screenshot](https://github.com/zEthiopianBoy/ScannerScript/blob/main/IMG_20210516_020521_563.jpg)
