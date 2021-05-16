@@ -1,3 +1,6 @@
+[![zEthiopianBoy Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/zEthiopianBoy/github-readme-stats&show_icons=true)
+
+
 # ScannerScript
 Nmap automation tool
 
