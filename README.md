@@ -1,8 +1,8 @@
 # ScannerScript
 Nmap automation tool
 
-#Usage 
-pkg install nmap
+# Usage 
+# pkg install nmap
 pkg install git
 git clone https://github.com/zEthiopianBoy/ScannerScript.git
 cd ScannerScript
